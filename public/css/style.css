@@ -21,3 +21,15 @@
     background-image: url("../images/mellow/Changing-Light-Over-Garrapata-Beach.jpg");
     background-size: cover;
 }
+
+#beastmode{
+    background-image: url("../images/beastmode/one.gif");
+    background-size: cover;
+}
+
+#beastmodeid{
+  font-size: 150%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px black;
+  color: white;
+}
