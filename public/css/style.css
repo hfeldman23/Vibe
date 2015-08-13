@@ -1,6 +1,6 @@
 @import url(http://fonts.googleapis.com/css?family=Lobster);
 
-body{
+#index{
   background-image: url("../images/background.jpg");
   background-size: cover;
 }
@@ -9,4 +9,15 @@ body{
   font-size: 500%;
   color: white;
   text-shadow: 4px 4px black;
+}
+
+#mellowid{
+      font-size: 150%;
+      font-family: 'Lobster', cursive;
+      text-shadow: 2px 2px white;
+}
+
+#mellow{
+    background-image: url("../images/mellow/Changing-Light-Over-Garrapata-Beach.jpg");
+    background-size: cover;
 }
