@@ -6,7 +6,7 @@
 }
 #title{
   font-family: 'Lobster', cursive;
-  font-size: 500%;
+  font-size: 750%;
   color: white;
   text-shadow: 4px 4px black;
 }
@@ -14,11 +14,12 @@
 #mellowid{
       font-size: 150%;
       font-family: 'Lobster', cursive;
-      text-shadow: 2px 2px white;
+      text-shadow: 4px 4px black;
+      color: white;
 }
 
 #mellow{
-    background-image: url("../images/mellow/Changing-Light-Over-Garrapata-Beach.jpg");
+    background-image: url("../images/mellow/mellow.gif");
     background-size: cover;
 }
 
@@ -28,6 +29,18 @@
 }
 
 #beastmodeid{
+  font-size: 150%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px black;
+  color: white;
+}
+
+#trippy{
+  background-image: url("../images/trippy.gif");
+  background-size: cover;
+}
+
+#trippyid{
   font-size: 150%;
   font-family: 'Lobster', cursive;
   text-shadow: 4px 4px black;
