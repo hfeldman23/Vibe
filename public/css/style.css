@@ -45,5 +45,16 @@
   font-family: 'Lobster', cursive;
   text-shadow: 4px 4px black;
   color: white;
-  
+}
+
+#focusing{
+    background-image: url("../images/focusing.gif");
+    background-size: cover;
+}
+
+#focusingid{
+  font-size: 150%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px white;
+  color: black;
 }
