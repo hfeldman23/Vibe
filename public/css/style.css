@@ -83,3 +83,15 @@
   color: white;
 }
 
+#serene{
+  background-image: url("../images/serenegif.gif");
+  background-size: cover;
+}
+
+#sereneid{
+  font-size: 150%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px black;
+  color: white;
+}
+
