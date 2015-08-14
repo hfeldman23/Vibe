@@ -95,3 +95,21 @@
   color: white;
 }
 
+#chill{
+  background-image: url("../images/chill.gif");
+  background-size: cover;
+}
+
+#chillid{
+  font-size: 150%;
+  font-family: 'Lobster', cursive;
+  text-shadow: 4px 4px black;
+  color: white;
+}
+
+
+
+
+
+
+
